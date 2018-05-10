@@ -12,17 +12,17 @@ int32=0
 int32=0
 [kills_total]
 <<<<<<< HEAD
-int32=130
+int32=199
 [kills_warriors]
-int32=100
+int32=152
 [kills_all_orc_types]
-int32=130
+int32=196
 [kills_by_dagger]
-int32=60
+int32=78
 [kills_by_sword]
-int32=41
+int32=71
 [kills_type_stealth]
-int32=45
+int32=59
 =======
 int32=58
 [kills_warriors]
@@ -37,20 +37,20 @@ int32=18
 int32=26
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [quests_total]
-int32=5
+int32=9
 [percentage_complete]
-float=5.257732
+float=6.804123
 [spirit_towers_unlocked_udun]
 int32=3
 [spirit_towers_unlocked_total]
 int32=3
 [kills_by_bow]
-int32=25
+int32=42
 [bow_headshots]
-int32=25
+int32=41
 [xp_total]
 <<<<<<< HEAD
-int32=6825
+int32=10388
 =======
 int32=3535
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
@@ -69,18 +69,18 @@ int32=0
 [current_warchiefs_dead]
 int32=0
 [deaths_total]
-int32=3
+int32=4
 [deaths_trolls]
 int32=1
 [skill_points_earned]
 <<<<<<< HEAD
-int32=22
+int32=24
 [quests_dagger]
 int32=1
 [kills_archers]
-int32=17
+int32=21
 [slaves_escaped]
-int32=34
+int32=45
 =======
 int32=21
 [quests_dagger]
@@ -91,10 +91,10 @@ int32=8
 int32=20
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [kills_captains]
-int32=4
+int32=7
 [runes_found]
 <<<<<<< HEAD
-int32=4
+int32=7
 =======
 int32=2
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
@@ -104,21 +104,21 @@ int32=1
 int32=1
 [kills_type_death_from_above]
 <<<<<<< HEAD
-int32=6
+int32=9
 =======
 int32=3
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [jumped_height_last]
-int32=24
+int32=8
 [jumped_height_hightest]
 <<<<<<< HEAD
 int32=24
 [collected_plants]
-int32=8
+int32=15
 [combat_finisher]
-int32=2
+int32=8
 [kills_type_decapitations]
-int32=2
+int32=5
 [kills_defenders]
 int32=13
 [uruks_covered_with_flies]
@@ -130,7 +130,7 @@ int32=1
 [weakness_activated_captain]
 int32=1
 [kills_type_throw]
-int32=1
+int32=2
 [deaths_named_enemy]
 =======
 int32=3
@@ -140,4 +140,10 @@ int32=3
 int32=1
 [combat_finisher]
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
+int32=1
+[kills_wargs]
+int32=3
+[kills_spearmen]
+int32=10
+[deaths_wargs]
 int32=1
