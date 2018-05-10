@@ -11,6 +11,7 @@ int32=0
 [branded_ghuls_all_inrange]
 int32=0
 [kills_total]
+<<<<<<< HEAD
 int32=130
 [kills_warriors]
 int32=100
@@ -22,6 +23,19 @@ int32=60
 int32=41
 [kills_type_stealth]
 int32=45
+=======
+int32=58
+[kills_warriors]
+int32=50
+[kills_all_orc_types]
+int32=58
+[kills_by_dagger]
+int32=33
+[kills_by_sword]
+int32=18
+[kills_type_stealth]
+int32=26
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [quests_total]
 int32=5
 [percentage_complete]
@@ -35,7 +49,11 @@ int32=25
 [bow_headshots]
 int32=25
 [xp_total]
+<<<<<<< HEAD
 int32=6825
+=======
+int32=3535
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [dominated_warriors]
 int32=1
 [dominated_total]
@@ -55,6 +73,7 @@ int32=3
 [deaths_trolls]
 int32=1
 [skill_points_earned]
+<<<<<<< HEAD
 int32=22
 [quests_dagger]
 int32=1
@@ -62,19 +81,37 @@ int32=1
 int32=17
 [slaves_escaped]
 int32=34
+=======
+int32=21
+[quests_dagger]
+int32=1
+[kills_archers]
+int32=8
+[slaves_escaped]
+int32=20
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [kills_captains]
 int32=4
 [runes_found]
+<<<<<<< HEAD
 int32=4
+=======
+int32=2
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [runes_epic]
 int32=1
 [deaths_grunt]
 int32=1
 [kills_type_death_from_above]
+<<<<<<< HEAD
 int32=6
+=======
+int32=3
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [jumped_height_last]
 int32=24
 [jumped_height_hightest]
+<<<<<<< HEAD
 int32=24
 [collected_plants]
 int32=8
@@ -95,4 +132,12 @@ int32=1
 [kills_type_throw]
 int32=1
 [deaths_named_enemy]
+=======
+int32=3
+[kills_type_decapitations]
+int32=3
+[collected_plants]
+int32=1
+[combat_finisher]
+>>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 int32=1
