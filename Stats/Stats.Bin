@@ -12,17 +12,17 @@ int32=0
 int32=0
 [kills_total]
 <<<<<<< HEAD
-int32=199
+int32=405
 [kills_warriors]
-int32=152
+int32=192
 [kills_all_orc_types]
-int32=196
+int32=256
 [kills_by_dagger]
-int32=78
+int32=90
 [kills_by_sword]
-int32=71
+int32=145
 [kills_type_stealth]
-int32=59
+int32=68
 =======
 int32=58
 [kills_warriors]
@@ -37,20 +37,20 @@ int32=18
 int32=26
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [quests_total]
-int32=9
+int32=12
 [percentage_complete]
-float=6.804123
+float=9.484536
 [spirit_towers_unlocked_udun]
-int32=3
+int32=5
 [spirit_towers_unlocked_total]
-int32=3
+int32=5
 [kills_by_bow]
-int32=42
+int32=68
 [bow_headshots]
-int32=41
+int32=66
 [xp_total]
 <<<<<<< HEAD
-int32=10388
+int32=13339
 =======
 int32=3535
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
@@ -63,24 +63,24 @@ int32=1
 [interrogated_total]
 int32=1
 [intel_total]
-int32=1
+int32=2
 [current_warchiefs_branded]
 int32=0
 [current_warchiefs_dead]
 int32=0
 [deaths_total]
-int32=4
+int32=8
 [deaths_trolls]
 int32=1
 [skill_points_earned]
 <<<<<<< HEAD
-int32=24
+int32=45
 [quests_dagger]
 int32=1
 [kills_archers]
-int32=21
+int32=38
 [slaves_escaped]
-int32=45
+int32=65
 =======
 int32=21
 [quests_dagger]
@@ -91,36 +91,36 @@ int32=8
 int32=20
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [kills_captains]
-int32=7
+int32=8
 [runes_found]
 <<<<<<< HEAD
-int32=7
+int32=8
 =======
 int32=2
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [runes_epic]
 int32=1
 [deaths_grunt]
-int32=1
+int32=3
 [kills_type_death_from_above]
 <<<<<<< HEAD
-int32=9
+int32=12
 =======
 int32=3
 >>>>>>> 071fcf13c9e95d9de331ddf1d475ca7e719e89a0
 [jumped_height_last]
-int32=8
+int32=13
 [jumped_height_hightest]
 <<<<<<< HEAD
 int32=24
 [collected_plants]
 int32=15
 [combat_finisher]
-int32=8
+int32=14
 [kills_type_decapitations]
-int32=5
+int32=7
 [kills_defenders]
-int32=13
+int32=15
 [uruks_covered_with_flies]
 int32=6
 [count_cages_opened]
@@ -130,10 +130,10 @@ int32=1
 [weakness_activated_captain]
 int32=1
 [kills_type_throw]
-int32=2
+int32=3
 [deaths_named_enemy]
 =======
-int32=3
+int32=2
 [kills_type_decapitations]
 int32=3
 [collected_plants]
@@ -146,4 +146,26 @@ int32=3
 [kills_spearmen]
 int32=10
 [deaths_wargs]
+int32=1
+[count_bait_dropped]
+int32=1
+[caragors_attracted]
+int32=2
+[kills_goblins]
+int32=146
+[kills_type_wraith]
+int32=15
+[deaths_goblins]
+int32=1
+[count_fires_exploded]
+int32=3
+[kills_by_fire]
+int32=76
+[kills_helped_captains]
+int32=1
+[quests_bow]
+int32=1
+[kills_berserkers]
+int32=1
+[challenges_hunting]
 int32=1
